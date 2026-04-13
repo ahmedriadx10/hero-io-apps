@@ -3,7 +3,7 @@ const Footer = () => {
   return (
     <footer className="bg-[#001931] py-10">
       
-      <div className="max-w-7xl mx-auto">
+      <div className="max-w-7xl w-[90%] mx-auto">
 
 <div className="flex justify-between items-center">
   <div className='flex items-center gap-1'><img src={logo} alt="footer logo" className='h-10' />
