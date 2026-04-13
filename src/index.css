@@ -1,0 +1,12 @@
+:root{
+  --primaryColor:#632EE3;
+  --secondaryColor:#9F62F2;
+}
+
+
+.active{
+  background-color: none;
+  border-bottom:2px solid var(--primaryColor);
+  color: var(--primaryColor);
+  border-radius: 0;
+}
